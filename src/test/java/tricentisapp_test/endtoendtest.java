@@ -41,7 +41,7 @@ public class endtoendtest extends driver{
 		jse2.executeScript("arguments[0].click()",a1.speeding); 
 		a1.nextenterproductdata.click();
 		//product data
-		a1.startdate.sendKeys("11/12/2024");
+		a1.startdate.sendKeys("12/12/2024");
 		Select s5 = new Select(a1.insurancesum);
 		s5.selectByIndex(1);
 		Select s6 = new Select(a1.meritrating);
