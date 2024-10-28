@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T22:44:28 IST" name="Suite" finished-at="2024-10-28T22:45:10 IST" duration-ms="41736">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T22:44:28 IST" name="Test" finished-at="2024-10-28T22:45:10 IST" duration-ms="41736">
+      <class name="tricentisapp_test.endtoendtest">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:44:28 IST" name="launchDriver" finished-at="2024-10-28T22:44:54 IST" duration-ms="26037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="endToendFlow()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:44:54 IST" name="endToendFlow" finished-at="2024-10-28T22:45:10 IST" duration-ms="15569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToendFlow -->
+        <test-method is-config="true" signature="exitBrowser()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:45:10 IST" name="exitBrowser" finished-at="2024-10-28T22:45:10 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- tricentisapp_test.endtoendtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
