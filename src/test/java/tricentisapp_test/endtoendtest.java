@@ -1,5 +1,4 @@
 package tricentisapp_test;
-
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
@@ -7,7 +6,6 @@ import org.testng.annotations.Test;
 import baseDriver.driver;
 import navigate_page.automobile_data;
 import navigate_page.homepage;
-
 public class endtoendtest extends driver{
 	@Test
 	public void endToendFlow() {
@@ -64,11 +62,5 @@ public class endtoendtest extends driver{
 		a1.confirmpassword.sendKeys("Sandy@123");
 		a1.sendemail.click();
 		a1.confirm.click();
-		
-		
-		
-		
-		
-
 	}
 }
