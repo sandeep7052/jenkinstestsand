@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-28T22:44:28 IST" name="Suite" finished-at="2024-10-28T22:45:10 IST" duration-ms="41736">
+  <suite started-at="2024-10-29T21:15:29 IST" name="Suite" finished-at="2024-10-29T21:16:17 IST" duration-ms="47475">
     <groups>
     </groups>
-    <test started-at="2024-10-28T22:44:28 IST" name="Test" finished-at="2024-10-28T22:45:10 IST" duration-ms="41736">
+    <test started-at="2024-10-29T21:15:29 IST" name="Test" finished-at="2024-10-29T21:16:17 IST" duration-ms="47475">
       <class name="tricentisapp_test.endtoendtest">
-        <test-method is-config="true" signature="launchDriver()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:44:28 IST" name="launchDriver" finished-at="2024-10-28T22:44:54 IST" duration-ms="26037" status="PASS">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-29T21:15:29 IST" name="launchDriver" finished-at="2024-10-29T21:15:53 IST" duration-ms="23398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchDriver -->
-        <test-method signature="endToendFlow()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:44:54 IST" name="endToendFlow" finished-at="2024-10-28T22:45:10 IST" duration-ms="15569" status="PASS">
+        <test-method signature="endToendFlow()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-29T21:15:53 IST" name="endToendFlow" finished-at="2024-10-29T21:16:17 IST" duration-ms="23869" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endToendFlow -->
-        <test-method is-config="true" signature="exitBrowser()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-28T22:45:10 IST" name="exitBrowser" finished-at="2024-10-28T22:45:10 IST" duration-ms="98" status="PASS">
+        <test-method is-config="true" signature="exitBrowser()[pri:0, instance:tricentisapp_test.endtoendtest@6ae5aa72]" started-at="2024-10-29T21:16:17 IST" name="exitBrowser" finished-at="2024-10-29T21:16:17 IST" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitBrowser -->
